@@ -27,27 +27,34 @@ F1 Calculator - это современное desktop-приложение ка�
 ## Установка
 
 1. Клонируйте репозиторий:
+
 ```bash
 git clone https://github.com/dymyx/SuperPuperCalculator.git
 cd SuperPuperCalculator
 ```
 
 2. Создайте виртуальное окружение:
+
 ```bash
 python -m venv .venv
 ```
 
 3. Активируйте виртуальное окружение:
+
 - Windows:
+
 ```bash
 .venv\Scripts\activate
 ```
+
 - Linux/Mac:
+
 ```bash
 source .venv/bin/activate
 ```
 
 4. Установите зависимости:
+
 ```bash
 pip install customtkinter
 ```
@@ -65,8 +72,8 @@ python calculator.py
 
 ## Лицензия
 
-MIT License - см. файл LICENSE
+Этот проект распространяется под лицензией [GNU GPLv3](./LICENSE).
 
 ## Автор
 
-Создано с ❤️ и ⚡
+Создано гениями
